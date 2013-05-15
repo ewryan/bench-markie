@@ -1,0 +1,6 @@
+---
+benches:
+  HelloWorld:
+    instances: 4
+    args:
+      message: bigworm
